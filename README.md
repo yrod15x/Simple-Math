@@ -1,2 +1,2 @@
 # Simple-Math
-Python program that perfomes basic operations with numbers entered by the user.
+Python program that perfomes basic operations with numbers entered randomly
