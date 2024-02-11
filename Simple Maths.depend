@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1707677864 source:c:\users\megas\documents\programming\exercises programmers\simple-math\simple maths\main.cpp
+	<iostream>
+	"BasicOperations.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1707677162 c:\users\megas\documents\programming\exercises programmers\simple-math\simple maths\include\basicoperations.h
+	<vector>
+
+1707677258 source:c:\users\megas\documents\programming\exercises programmers\simple-math\simple maths\src\basicoperations.cpp
+	"BasicOperations.h"
+	<vector>
+	<iostream>
+
